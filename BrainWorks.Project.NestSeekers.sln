@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainWorks.Nest.Data", "BrainWorks.Nest.Data\BrainWorks.Nest.Data.csproj", "{B186EBE1-05DD-46A1-8F35-2E233D2672C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainWorks.Nest.Data", "BrainWorks.Nest.Data\BrainWorks.Nest.Data.csproj", "{B186EBE1-05DD-46A1-8F35-2E233D2672C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainWorks.Nest.Persistence", "BrainWorks.Nest.Persistence\BrainWorks.Nest.Persistence.csproj", "{6C6F24E5-7628-4FC2-9709-2F32A8631128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainWorks.Nest.Persistence", "BrainWorks.Nest.Persistence\BrainWorks.Nest.Persistence.csproj", "{6C6F24E5-7628-4FC2-9709-2F32A8631128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainWorks.Nest.Services", "BrainWorks.Nest.Services\BrainWorks.Nest.Services.csproj", "{D7026121-5634-4C64-AA3F-83F7C1E789F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainWorks.Nest.Services", "BrainWorks.Nest.Services\BrainWorks.Nest.Services.csproj", "{D7026121-5634-4C64-AA3F-83F7C1E789F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainWorks.Nest.Web", "BrainWorks.Nest.Web\BrainWorks.Nest.Web.csproj", "{79376ABC-7520-41DD-A28E-DFAFCDEAAE86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrainWorks.Nest.Web", "BrainWorks.Nest.Web\BrainWorks.Nest.Web.csproj", "{79376ABC-7520-41DD-A28E-DFAFCDEAAE86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{E856B649-2EA7-452B-A97B-1D9450057A7E}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitattributes.txt = ..\.gitattributes.txt
+		..\.gitignore.txt = ..\.gitignore.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

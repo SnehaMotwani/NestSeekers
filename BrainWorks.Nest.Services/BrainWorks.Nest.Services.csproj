@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BrainWorks.Nest.Data\BrainWorks.Nest.Data.csproj" />
+    <ProjectReference Include="..\BrainWorks.Nest.Persistence\BrainWorks.Nest.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

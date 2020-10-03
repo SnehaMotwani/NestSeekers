@@ -1,0 +1,15 @@
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.exe
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.deps.json
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csprojAssemblyReference.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.AssemblyInfoInputs.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.AssemblyInfo.cs
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csproj.CoreCompileInputs.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csproj.CopyComplete
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.pdb

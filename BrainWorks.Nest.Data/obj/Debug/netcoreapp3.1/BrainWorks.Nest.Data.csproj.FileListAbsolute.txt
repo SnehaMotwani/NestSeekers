@@ -1,0 +1,13 @@
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.exe
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.deps.json
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.runtimeconfig.json
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.runtimeconfig.dev.json
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.csprojAssemblyReference.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.AssemblyInfoInputs.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.AssemblyInfo.cs
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.csproj.CoreCompileInputs.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.genruntimeconfig.cache

@@ -6,7 +6,7 @@ namespace BrainWorks.Nest.Data
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Project added to existing repo");
         }
     }
 }

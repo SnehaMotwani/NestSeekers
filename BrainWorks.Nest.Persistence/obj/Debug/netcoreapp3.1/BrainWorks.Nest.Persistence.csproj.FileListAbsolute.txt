@@ -6,3 +6,7 @@ D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Ne
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.runtimeconfig.json
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.runtimeconfig.dev.json
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.genruntimeconfig.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.csproj.CoreCompileInputs.cache
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.dll
+D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb
