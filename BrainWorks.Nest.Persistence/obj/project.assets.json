@@ -1483,6 +1483,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BrainWorks.Nest.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BrainWorks.Nest.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BrainWorks.Nest.Data.dll": {}
+        }
       }
     }
   },
@@ -5675,28 +5685,34 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BrainWorks.Nest.Data/1.0.0": {
+      "type": "project",
+      "path": "../BrainWorks.Nest.Data/BrainWorks.Nest.Data.csproj",
+      "msbuildProject": "../BrainWorks.Nest.Data/BrainWorks.Nest.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BrainWorks.Nest.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sneha\\.nuget\\packages\\": {}
+    "C:\\Users\\RM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj",
+      "projectUniqueName": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj",
       "projectName": "BrainWorks.Nest.Persistence",
-      "projectPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj",
-      "packagesPath": "C:\\Users\\sneha\\.nuget\\packages\\",
-      "outputPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Persistence\\obj\\",
+      "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj",
+      "packagesPath": "C:\\Users\\RM\\.nuget\\packages\\",
+      "outputPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sneha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5708,7 +5724,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
+              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {}
+    "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {}
   },
   "projects": {
-    "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
+    "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj",
+        "projectUniqueName": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj",
         "projectName": "BrainWorks.Nest.Data",
-        "projectPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj",
-        "packagesPath": "C:\\Users\\sneha\\.nuget\\packages\\",
-        "outputPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\obj\\",
+        "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj",
+        "packagesPath": "C:\\Users\\RM\\.nuget\\packages\\",
+        "outputPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sneha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

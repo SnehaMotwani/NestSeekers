@@ -1482,6 +1482,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "BrainWorks.Nest.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.8"
         },
         "compile": {
@@ -5684,19 +5685,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sneha\\.nuget\\packages\\": {}
+    "C:\\Users\\RM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
+      "projectUniqueName": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
       "projectName": "BrainWorks.Nest.Services",
-      "projectPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
-      "packagesPath": "C:\\Users\\sneha\\.nuget\\packages\\",
-      "outputPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Services\\obj\\",
+      "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
+      "packagesPath": "C:\\Users\\RM\\.nuget\\packages\\",
+      "outputPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sneha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5709,11 +5710,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
-              "projectPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj"
+            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
+              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj"
             },
-            "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj": {
-              "projectPath": "D:\\2020\\ASP.Net Project\\NestSeekers\\BrainWorks.Project.NestSeekers\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj"
+            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj": {
+              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj"
             }
           }
         }
