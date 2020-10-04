@@ -13,3 +13,18 @@ D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Ne
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csproj.CopyComplete
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.dll
 D:\2020\ASP.Net Project\NestSeekers\BrainWorks.Project.NestSeekers\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.pdb
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.exe
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.deps.json
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.dll
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Services.pdb
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.dll
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\bin\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csprojAssemblyReference.cache
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.AssemblyInfoInputs.cache
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.AssemblyInfo.cs
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csproj.CoreCompileInputs.cache
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.csproj.CopyComplete
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.dll
+D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Services\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Services.pdb

@@ -14,5 +14,7 @@ namespace BrainWorks.Nest.Data.Model
         public string Pin { get; set; }
         public string Mobile { get; set; }
         public string Email { get; set; }
+
+        public List<UserRole> UsersRoles { get; set; }
     }
 }

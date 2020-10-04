@@ -11,5 +11,7 @@ namespace BrainWorks.Nest.Data.Model
         public int UserId { get; set; } //FK
         public Role Role { get; set; }
         public User User { get; set; }
+
+        public List<User> Users { get; set; }
     }
 }
