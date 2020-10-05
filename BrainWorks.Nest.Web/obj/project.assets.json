@@ -5703,19 +5703,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RM\\.nuget\\packages\\": {}
+    "C:\\Users\\Snehal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Web\\BrainWorks.Nest.Web.csproj",
+      "projectUniqueName": "F:\\.net2020\\nest\\BrainWorks.Nest.Web\\BrainWorks.Nest.Web.csproj",
       "projectName": "BrainWorks.Nest.Web",
-      "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Web\\BrainWorks.Nest.Web.csproj",
-      "packagesPath": "C:\\Users\\RM\\.nuget\\packages\\",
-      "outputPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Web\\obj\\",
+      "projectPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Web\\BrainWorks.Nest.Web.csproj",
+      "packagesPath": "C:\\Users\\Snehal\\.nuget\\packages\\",
+      "outputPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Snehal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5728,8 +5728,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj": {
-              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj"
+            "F:\\.net2020\\nest\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj": {
+              "projectPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj"
             }
           }
         }

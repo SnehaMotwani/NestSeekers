@@ -16,3 +16,9 @@ D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Persistence\obj\Debug\
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.csproj.CoreCompileInputs.cache
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.dll
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.csprojAssemblyReference.cache
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.AssemblyInfoInputs.cache
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.AssemblyInfo.cs
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.csproj.CoreCompileInputs.cache
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.dll
+F:\.net2020\nest\BrainWorks.Nest.Persistence\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Persistence.pdb

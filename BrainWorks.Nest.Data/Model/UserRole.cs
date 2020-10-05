@@ -13,5 +13,7 @@ namespace BrainWorks.Nest.Data.Model
         public User User { get; set; }
 
         public List<User> Users { get; set; }
+        public IList<Property> Property { get; set; }
+        public IList<MyFavourites> MyFavourites{ get; set; }
     }
 }

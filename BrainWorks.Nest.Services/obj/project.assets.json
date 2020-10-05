@@ -5685,19 +5685,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RM\\.nuget\\packages\\": {}
+    "C:\\Users\\Snehal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
+      "projectUniqueName": "F:\\.net2020\\nest\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
       "projectName": "BrainWorks.Nest.Services",
-      "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
-      "packagesPath": "C:\\Users\\RM\\.nuget\\packages\\",
-      "outputPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Services\\obj\\",
+      "projectPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Services\\BrainWorks.Nest.Services.csproj",
+      "packagesPath": "C:\\Users\\Snehal\\.nuget\\packages\\",
+      "outputPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Snehal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5710,11 +5710,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
-              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj"
+            "F:\\.net2020\\nest\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj": {
+              "projectPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Data\\BrainWorks.Nest.Data.csproj"
             },
-            "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj": {
-              "projectPath": "D:\\Full Stack Developer\\Project\\MyProject\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj"
+            "F:\\.net2020\\nest\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj": {
+              "projectPath": "F:\\.net2020\\nest\\BrainWorks.Nest.Persistence\\BrainWorks.Nest.Persistence.csproj"
             }
           }
         }

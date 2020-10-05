@@ -17,3 +17,9 @@ D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Data\obj\Debug\netcore
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.csproj.CoreCompileInputs.cache
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
 D:\Full Stack Developer\Project\MyProject\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.csprojAssemblyReference.cache
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.AssemblyInfoInputs.cache
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.AssemblyInfo.cs
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.csproj.CoreCompileInputs.cache
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.dll
+F:\.net2020\nest\BrainWorks.Nest.Data\obj\Debug\netcoreapp3.1\BrainWorks.Nest.Data.pdb
