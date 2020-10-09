@@ -19,6 +19,7 @@ namespace BrainWorks.Nest.Persistence
         public DbSet<TransactionType> TransactionTypes { get; set; }
         public DbSet<Status> Statuses { get; set; }
         public DbSet<Direction> Directions { get; set; }
+        public DbSet<Document> Documents { get; set; }
 
         public DbSet<BHKType> BHKTypes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -72,6 +73,23 @@ namespace BrainWorks.Nest.Persistence
             modelBuilder.Entity<Requests>().Property(b => b.DateAdded).HasDefaultValueSql("getdate()").IsRequired();
             modelBuilder.Entity<Requests>().HasOne<Data.Model.Property>(r => r.Property).WithMany(p => p.Request).HasForeignKey(r => r.PropertyId).OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<Requests>().HasOne<Data.Model.TransactionType>(r=> r.TransactionTypes).WithMany(p => p.Request).HasForeignKey(r => r.TransactionType).OnDelete(DeleteBehavior.NoAction);
+
+            //For Documents
+            modelBuilder.Entity<Data.Model.Document>().Property(dc => dc.Name).HasColumnType("varchar(200)").IsRequired();
+            modelBuilder.Entity<Document>().Property(dc => dc.Value).IsRowVersion();
+            modelBuilder.Entity<Document>().HasOne<Data.Model.Property>(p => p.Property).WithMany(d => d.Documents).HasForeignKey(p => p.PropertyId).OnDelete(DeleteBehavior.NoAction);
+
+            //For Direction
+            modelBuilder.Entity<Data.Model.Direction>().Property(d => d.Name).HasColumnType("varchar(200)").IsRequired();
+
+            //For TransactionType
+            modelBuilder.Entity<Data.Model.TransactionType>().Property(t => t.Name).HasColumnType("varchar(200)").IsRequired();
+
+            //For BhkType
+            modelBuilder.Entity<Data.Model.BHKType>().Property(bt => bt.Name).HasColumnType("varchar(200)").IsRequired();
+
+            //For Status
+            modelBuilder.Entity<Data.Model.Status>().Property(s => s.Name).HasColumnType("varchar(200)").IsRequired();
 
         }
     }

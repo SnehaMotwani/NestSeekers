@@ -39,6 +39,8 @@ namespace BrainWorks.Nest.Data.Model
         public IList<Direction> Directions { get; set; }
         public IList<MyFavourites> MyFavourites { get; set; }
         public IList<Requests> Request{ get; set; }
+        public IList<Document> Documents{ get; set; }
+
 
 
     }
