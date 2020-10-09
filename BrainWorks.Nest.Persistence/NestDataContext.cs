@@ -38,11 +38,14 @@ namespace BrainWorks.Nest.Persistence
             modelBuilder.Entity<User>().Property(b => b.Pin).HasColumnType("varchar(6)").IsRequired();
             modelBuilder.Entity<User>().Property(b => b.Mobile).HasColumnType("varchar(20)").IsRequired();
             modelBuilder.Entity<User>().Property(b => b.Email).HasColumnType("varchar(200)").IsRequired();
+
             //for Role
             modelBuilder.Entity<Role>().Property(b => b.Name).HasColumnType("varchar(200)").IsRequired();
+
             //For UserRole
             modelBuilder.Entity<UserRole>().HasOne(b => b.User).WithMany(b => b.UsersRoles).HasForeignKey(b => b.UserId).OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<UserRole>().HasOne(b => b.Role).WithMany(b => b.UserRoles).HasForeignKey(b => b.RoleId).OnDelete(DeleteBehavior.NoAction);
+
             //for Property
             modelBuilder.Entity<Data.Model.Property>().Property(b => b.Address).HasColumnType("varchar(200)").IsRequired();
             modelBuilder.Entity<Data.Model.Property>().Property(b => b.City).HasColumnType("varchar(20)").IsRequired();
@@ -57,6 +60,7 @@ namespace BrainWorks.Nest.Persistence
             modelBuilder.Entity<Data.Model.Property>().HasOne<Status>(pt => pt.Status).WithMany(p => p.Property).HasForeignKey(pt => pt.StatusId).OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<Data.Model.Property>().HasOne<UserRole>(pt => pt.UserRole).WithMany(p => p.Property).HasForeignKey(pt => pt.OwnerId).OnDelete(DeleteBehavior.NoAction);
             modelBuilder.Entity<Data.Model.Property>().HasOne<Direction>(pt => pt.Direction).WithMany(p => p.Property).HasForeignKey(pt => pt.DirectionId).OnDelete(DeleteBehavior.NoAction);
+
             //For PropertyType
             modelBuilder.Entity<PropertyType>().Property(b => b.Description).HasDefaultValueSql("varchar(200)").IsRequired();
             modelBuilder.Entity<PropertyType>().Property(b => b.Name).HasDefaultValueSql("varchar(150)").IsRequired();
